@@ -51,7 +51,7 @@
 
 ## 🔍 Featured Projects : 
 
-- 📌 <a href="github.com/youcefmihoubi1/TechMarket">TechMarekt - [Ecommerce Website] </a>
+- 📌 <a href="https://github.com/Youcefmihoubi1/techmarket">TechMarekt - [Ecommerce Website] </a>
 
 ---
 
