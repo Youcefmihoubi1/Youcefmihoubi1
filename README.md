@@ -51,7 +51,7 @@
 
 ## 🔍 Featured Projects : 
 
-- 📌 <a href="https://github.com/Youcefmihoubi1/techmarket">TechMarekt - [Ecommerce Website] </a>
+- 📌 <a href="https://github.com/Youcefmihoubi1/techmarket">TechMarket - [Ecommerce Website] </a>
 - 📌 <a href="https://github.com/Youcefmihoubi1/Qadiya">Qadiya - [Palestine Support Website] </a>
 - 📌 <a href="https://github.com/Youcefmihoubi1/al-badr">Al Badr - [Mosque Registeration System Website] </a>
 ---
